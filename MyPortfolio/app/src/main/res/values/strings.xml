@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Portfolio</string>
+    <string name="calculator_app">Calculator App</string>
+    <string name="mortgage_calculator">Mortgage Calculator</string>
+    <string name="tip_calculator">Tip Calculator</string>
+    <string name="welcome_app">Welcome app</string>
+</resources>
